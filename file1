@@ -1,2 +1,6 @@
 san bxnsabcxna
 csaba cnba
+FROM nginx
+CMD ls -a
+COPY ./index.html /usr/share/nginx/html
+EXPOSE 8080
