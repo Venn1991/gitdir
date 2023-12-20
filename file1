@@ -4,3 +4,9 @@ FROM nginx
 CMD ls -a
 COPY ./index.html /usr/share/nginx/html
 EXPOSE 8080
+Aaaaa
+bbbbbb
+cccccc
+1111111111
+2222222222
+33333333
